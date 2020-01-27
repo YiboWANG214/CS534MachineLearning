@@ -1,3 +1,5 @@
 # CS534MachineLearning
 
-# code, preprocessed data and slides are in different branches
+
+# This is a course project.
+# Code, preprocessed data and slides are in different branches
